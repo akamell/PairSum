@@ -18,7 +18,6 @@ namespace FirstPairSum
             {
                 while (j < arrayList.Length && sw == false)
                 {
-                    Console.WriteLine(arrayList[i] + " + " + arrayList[j] + " = " + target);
                     if (arrayList[i] + arrayList[j] == target)
                     {
                         result[0] = i;
@@ -33,8 +32,7 @@ namespace FirstPairSum
                 else
                     j = i + 1;
             }
-            Console.WriteLine("compadre");
-            Console.WriteLine(result[0] + " - " + result[1]);
+            // Console.WriteLine(result[0] + "," + result[1]);
             return result;
         }
     }
