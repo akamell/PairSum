@@ -1,0 +1,16 @@
+/Users/abrahamkamell/Evans/FirstPairSum/obj/Debug/netcoreapp3.1/FirstPairSum.csprojAssemblyReference.cache
+/Users/abrahamkamell/Evans/FirstPairSum/obj/Debug/netcoreapp3.1/FirstPairSum.csproj.CoreCompileInputs.cache
+/Users/abrahamkamell/Evans/FirstPairSum/obj/Debug/netcoreapp3.1/FirstPairSum.AssemblyInfoInputs.cache
+/Users/abrahamkamell/Evans/FirstPairSum/obj/Debug/netcoreapp3.1/FirstPairSum.AssemblyInfo.cs
+/Users/abrahamkamell/Evans/PairSum/FirstPairSum/obj/Debug/netcoreapp3.1/FirstPairSum.csprojAssemblyReference.cache
+/Users/abrahamkamell/Evans/PairSum/FirstPairSum/obj/Debug/netcoreapp3.1/FirstPairSum.csproj.CoreCompileInputs.cache
+/Users/abrahamkamell/Evans/PairSum/FirstPairSum/obj/Debug/netcoreapp3.1/FirstPairSum.AssemblyInfoInputs.cache
+/Users/abrahamkamell/Evans/PairSum/FirstPairSum/obj/Debug/netcoreapp3.1/FirstPairSum.AssemblyInfo.cs
+/Users/abrahamkamell/Evans/PairSum/FirstPairSum/bin/Debug/netcoreapp3.1/FirstPairSum.deps.json
+/Users/abrahamkamell/Evans/PairSum/FirstPairSum/bin/Debug/netcoreapp3.1/FirstPairSum.runtimeconfig.json
+/Users/abrahamkamell/Evans/PairSum/FirstPairSum/bin/Debug/netcoreapp3.1/FirstPairSum.runtimeconfig.dev.json
+/Users/abrahamkamell/Evans/PairSum/FirstPairSum/bin/Debug/netcoreapp3.1/FirstPairSum.dll
+/Users/abrahamkamell/Evans/PairSum/FirstPairSum/bin/Debug/netcoreapp3.1/FirstPairSum.pdb
+/Users/abrahamkamell/Evans/PairSum/FirstPairSum/obj/Debug/netcoreapp3.1/FirstPairSum.dll
+/Users/abrahamkamell/Evans/PairSum/FirstPairSum/obj/Debug/netcoreapp3.1/FirstPairSum.pdb
+/Users/abrahamkamell/Evans/PairSum/FirstPairSum/obj/Debug/netcoreapp3.1/FirstPairSum.genruntimeconfig.cache
